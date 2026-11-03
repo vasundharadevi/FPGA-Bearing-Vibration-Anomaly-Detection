@@ -1,16 +1,10 @@
 # FPGA-Bearing-Vibration-Anomaly-Detection
 FPGA-based bearing vibration anomaly detection using Python, Verilog, and NASA IMS data
 
-# FPGA-Based Bearing Vibration Anomaly Detection
-
 ## Project Overview
-
 This project explores the development of an FPGA-based bearing vibration anomaly detection system using the NASA IMS Bearing Dataset.
-
 The objective is to analyze vibration measurements, extract meaningful signal features, and identify unusual vibration patterns using a threshold-based detection algorithm.
-
 Python is used for dataset preprocessing and signal analysis, while Verilog will be used to implement the digital hardware architecture.
-
 The project is being developed and verified through simulation without requiring a physical FPGA board.
 
 ## Dataset
